@@ -1,0 +1,46 @@
+div.frontend>p {
+    background-color: darkgray;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-bottom: 0;
+    padding: 20px 20px;
+}
+
+button > a {
+    text-decoration: none;
+    color: #000;
+}
+
+div.writing {
+    margin-top: 10%;
+    width: 100%;
+}
+
+div.writing > p {
+    background-color: darkgray;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-bottom: 0;
+    padding: 20px 20px;
+}
+
+span.written-works {
+    display: block;
+    color: #888;
+}
+
+p.card-text {
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 5%;
+}
+
+ul li a {
+    text-decoration: none;
+}
